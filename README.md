@@ -1,4 +1,4 @@
-# 🌍 Global Multi-Language Translator
+# 🌍  Multi-Language Translator
 
 A simple and clean **multi-language translator web app** built using Python and Streamlit.
 It supports multiple Indian and international languages with a clean and colorful UI.
